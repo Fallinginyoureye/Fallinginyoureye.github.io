@@ -16,8 +16,8 @@ encoding: "utf-8"
 favicon: favicon.ico 
 
 repository: Fallinginyoureye/Fallinginyoureye.github.io
-github_url: https://github.com/Fallinginyoureye
-url: https://fallinginyoureye.github.io/
+github_url: http://github.com/Fallinginyoureye
+url: http://fallinginyoureye.github.io/
 ##enforce_ssl: ityouknow.com
 
 ## Gem
